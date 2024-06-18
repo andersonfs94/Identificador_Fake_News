@@ -1,2 +1,2 @@
-# IdentificadorFakeNews
+# Identificador de Fake News
 
