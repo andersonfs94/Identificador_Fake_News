@@ -33,5 +33,5 @@ Status: Em Desenvolvimento ⚠
   <img align="center" alt="Pandas" src="https://img.icons8.com/?size=50&id=xSkewUSqtErH&format=png&color=000000"/>
   <img align="center" alt="Numpy" src="https://img.icons8.com/?size=50&id=aR9CXyMagKIS&format=png&color=000000" width="50"/>
   <img align="center" alt="SKlearn" src="https://raw.githubusercontent.com/andersonfs94/Identificador_Fake_News/main/icones/scikit-learn.png" width="70"/>
-  <img align="center" alt="Matplotlib" src="https://raw.githubusercontent.com/andersonfs94/Identificador_Fake_News/main/icones/matplotlib.png" width="50"/>
+  <img align="center" alt="Matplotlib" src="https://raw.githubusercontent.com/andersonfs94/Identificador_Fake_News/e060b23e3dc0b714ba813391cc0baa294b27a96b/icones/matplotlib-seeklogo.svg" width="50"/>
 </div>
