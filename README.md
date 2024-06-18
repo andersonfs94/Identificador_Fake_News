@@ -31,7 +31,7 @@ Status: Em Desenvolvimento ⚠
 <div style="display:inline-block"><br>
   <img align="center" alt="Python" src="https://img.icons8.com/?size=50&id=13441&format=png&color=000000"/>
   <img align="center" alt="Pandas" src="https://img.icons8.com/?size=50&id=xSkewUSqtErH&format=png&color=000000"/>
-  <img align="center" alt="Numpy" src="https://img.icons8.com/?size=50&id=aR9CXyMagKIS&format=png&color=000000"/>
-  <img align="center" alt="SKlearn" src="https://img.icons8.com/?size=50&id=ZoxuQpqGOaTE&format=png&color=000000"/>
-  <img align="center" alt="Matplotlib" src="https://img.icons8.com/?size=50&id=128183&format=png&color=000000"/>
+  <img align="center" alt="Numpy" src="https://img.icons8.com/?size=50&id=aR9CXyMagKIS&format=png&color=000000" width="50"/>
+  <img align="center" alt="SKlearn" src="https://raw.githubusercontent.com/andersonfs94/Identificador_Fake_News/main/icones/scikit-learn.png" width="70"/>
+  <img align="center" alt="Matplotlib" src="https://raw.githubusercontent.com/andersonfs94/Identificador_Fake_News/main/icones/matplotlib.png" width="50"/>
 </div>
