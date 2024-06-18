@@ -35,3 +35,10 @@ O projeto consiste em realizar a leitura de duas planilhas, uma com notícias fa
   <img align="center" alt="Scikit-learn" src="https://raw.githubusercontent.com/andersonfs94/Identificador_Fake_News/main/icones/scikit-learn.png" width="50"/>
   <img align="center" alt="Matplotlib" src="https://raw.githubusercontent.com/andersonfs94/Identificador_Fake_News/e060b23e3dc0b714ba813391cc0baa294b27a96b/icones/matplotlib-seeklogo.svg" width="50"/>
 </div>
+
+## Contato
+
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
+
+- **LinkedIn:** [Anderson Santana](https://www.linkedin.com/in/anderson-santana94/)
+- **GitHub:** [andersonfs94](https://github.com/andersonfs94?tab=repositories)
