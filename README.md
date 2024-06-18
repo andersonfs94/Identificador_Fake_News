@@ -40,4 +40,4 @@ O projeto consiste em realizar a leitura de duas planilhas, uma com notícias fa
 
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
 
-[<img src="https://img.icons8.com/ios-filled/55/000000/linkedin.png"/>](https://www.linkedin.com/in/anderson-santana94/) [<img src="https://img.icons8.com/ios-glyphs/55/000000/github.png"/>](https://github.com/andersonfs94?tab=repositories)
+[<img src="https://img.icons8.com/?size=55&id=13930&format=png&color=000000"/>](https://www.linkedin.com/in/anderson-santana94/) [<img src="https://img.icons8.com/?size=55&id=63777&format=png&color=000000"/>](https://github.com/andersonfs94?tab=repositories)
