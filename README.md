@@ -1,5 +1,17 @@
 # Identificador de Fake News
 
+- [Projeto](#projeto)
+- [Status](#status)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Desenvolvido em](#desenvolvido-em)
+- [Futuras Melhorias](#futuras-melhorias)
+- [Contato](#contato)
+
+---
+
+## Projeto
+
 Este é um projeto de identificação de notícias falsas como projeto de conclusão de curso. 
 O projeto consiste em realizar a leitura de duas planilhas, uma com notícias falsas e a outra com notícias verdadeiras, e realizar o treinamento de uma máquina para identificar de forma mais precisa se a notícia é falsa ou verdadeira.
 
