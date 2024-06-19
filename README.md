@@ -17,7 +17,9 @@ O projeto consiste em realizar a leitura de duas planilhas, uma com notícias fa
 
 - <a href="https://colab.research.google.com/drive/1ju1Qaehq30fAi1n84kKWIAJgNX-TfCWF">Link do projeto</a>
 
-**Status:** Em Desenvolvimento ⚠
+## Status:
+
+Em Desenvolvimento ⚠
 
 ## Funcionalidades
 
