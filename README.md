@@ -24,8 +24,8 @@ Em Desenvolvimento ⚠
 ## Funcionalidades
 
 - Leitura e processamento de planilhas de notícias.
-- Treinamento de modelo de machine learning para classificação de notícias.
-- Avaliação da precisão do modelo.
+- Treinamento do modelo utilizando o algoritmo de Naive Bayes para classificação de notícias.
+- Avaliação da precisão do modelo utilizando métricas como acurácia, precisão, recall e F1-score.
 - Interface para inserção e verificação de novas notícias.
 
 ## Tecnologias Utilizadas
