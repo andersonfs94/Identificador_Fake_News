@@ -3,6 +3,8 @@
 Este é um projeto de identificação de notícias falsas como projeto de conclusão de curso. 
 O projeto consiste em realizar a leitura de duas planilhas, uma com notícias falsas e a outra com notícias verdadeiras, e realizar o treinamento de uma máquina para identificar de forma mais precisa se a notícia é falsa ou verdadeira.
 
+- <a href="https://colab.research.google.com/drive/1ju1Qaehq30fAi1n84kKWIAJgNX-TfCWF">Link do projeto</a>
+
 **Status:** Em Desenvolvimento ⚠
 
 ## Funcionalidades
